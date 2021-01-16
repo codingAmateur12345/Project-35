@@ -6,7 +6,7 @@ var food,foodVal,foodS;
 function preload()
 {
   //load images here
-  dogImage = loadImage("dog.png");
+  dogImage = loadImage("Dog.png");
   happyDogImg = loadImage("happydog.png");
   
 }
