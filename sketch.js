@@ -33,8 +33,7 @@ background(46,139,87);
 if(keyWentDown(UP_ARROW)){
 writeStock(foodS);
 dog.addImage(happyDogImg);
-dog.scale = 0.1;
-dog.scale = 1;
+dog.scale = 0.2;
 }
 fill(0,255,255);
 textSize(20);
